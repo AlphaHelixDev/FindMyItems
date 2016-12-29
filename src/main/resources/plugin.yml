@@ -1,0 +1,5 @@
+name: DropParty
+version: ${project.version}
+main: de.alphahelix.dropparty.DropParty
+authors: [AlphaHelix]
+description: Let your players create random sized drop parties
